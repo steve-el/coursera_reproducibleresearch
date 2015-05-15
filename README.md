@@ -1,2 +1,2 @@
 # coursera_reproducibleresearch
-Repo for the Reproducible Research class, April 2015.
+Repo for the Reproducible Research class, May 2015.
